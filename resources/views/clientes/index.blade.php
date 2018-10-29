@@ -9,4 +9,5 @@
 			<div class="col-md-3"><button class="btn btn-primary"> <a href="/listar"> Clientes </a></button></div>
 		</div>
 	</div>
+	<example-component></example-component>
 @endsection
